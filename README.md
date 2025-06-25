@@ -1,4 +1,4 @@
-# Student Grade Management System 📝
+# Student Grade Calculator 📝
 
 A simple Java program to manage student records — calculates total marks, average, and assigns grades based on student performance.
 
@@ -53,6 +53,7 @@ Grade     :       B
 - Accepts **only three subject marks** per student.
 - All marks must be between **0 and 100** — invalid entries are rejected with a prompt.
 - Grade is based solely on the **average of the three subjects**
+- It does not store data persistently — **all inputs are lost** once the program ends.
 
 
 ## 📁 File Info
